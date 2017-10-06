@@ -161,3 +161,7 @@ input.onGesture(Gesture.Shake, () => {
 ## Step 8
 
 Your game is ready! Gather your friends and play Rock Paper Scissors!
+
+## Future Ideas
+
+You could code this up to be a one player game too (you against your @boardname@). You could introduce a countdown timer before the @boardname@ displays your graphic, and use buttons to keep track of your score and the @boardname@'s score.
